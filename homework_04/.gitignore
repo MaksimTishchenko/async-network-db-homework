@@ -1,0 +1,45 @@
+# Virtual environments
+.venv/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# C extensions
+build/
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+sdist/
+wheel/
+*.egg-info
+*.egg
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+blog.db
+
+# pytest cache
+.pytest_cache/
+__pycache__
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/

@@ -1,0 +1,8 @@
+aiohttp>=3.8.0
+SQLAlchemy>=1.4.0
+#asyncpg==0.29.0
+docker==7.1.0
+requests==2.32.3
+Faker==26.0.0
+pytest==8.3.1
+pytest-asyncio==0.23.8
